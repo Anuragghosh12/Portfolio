@@ -1,0 +1,42 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/C++.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "Data Analytics",
+    "imageSrc": "skills/SkL.png"
+  },
+  {
+    "title": "Unreal Engine",
+    "imageSrc": "skills/Unreal.png"
+  },
+  {
+    "title": "Unity",
+    "imageSrc": "skills/Unity.png"
+  }
+  ,
+  {
+    "title": "Github",
+    "imageSrc": "skills/Github.png"
+  }
+  ,
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  }
+  ,
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  }
+  ,
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  }
+]

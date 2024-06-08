@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Epic Mega Jam 2023",
+    "organisation": "Epic Games",
+    "startDate": "Sept, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Developed a JRPG game within 2 weeks", "Solo Participant"],
+    "imageSrc": "history/Epic.png"
+  },
+  {
+    "role": "Kenny Game Jam 2023",
+    "organisation": "Kenny",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Developed a 2.5D game within 2-days deadline","Ranked 153 out of 3167 registered candidates", "Solo Participant"],
+    "imageSrc": "history/Itch.png"
+  }
+
+]
+

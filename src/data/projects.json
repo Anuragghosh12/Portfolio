@@ -1,0 +1,26 @@
+[
+  {
+    "title": "2D-3D JRPG Game",
+    "imageSrc": "projects/Omd.png",
+    "description": "Project made to develop turn based combact system using Unreal Engine",
+    "skills": ["Unreal Engine", "C++", "Blueprints"],
+    "demo": "https://youtu.be/bvW9D7V_Eh0",
+    "source": "https://github.com/Anuragghosh12/OneMoreDream-EpicMegaJam"
+  },
+  {
+    "title": "Explor (Game)",
+    "imageSrc": "projects/Exp.png",
+    "description": "A Project developed as a race against limited time to release a full fledge game.",
+    "skills": ["Unreal Engine", "C++","Blueprints"],
+    "demo": "https://zengenben.itch.io/ggexplor",
+    "source": "https://github.com/Anuragghosh12/Explor-KenneyJam"
+  },
+  {
+    "title": "Casus Game Engine",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the capability of modern C++ to develop a game engine.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Anuragghosh12/CasusEngine"
+  }
+]
